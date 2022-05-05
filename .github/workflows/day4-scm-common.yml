@@ -13,7 +13,6 @@ on:
     paths:
       - day4/apps/infrastructure/bicep/common/**
       - .github/workflows/day4-scm-common.yml
-
   workflow_dispatch:
 
 env:
